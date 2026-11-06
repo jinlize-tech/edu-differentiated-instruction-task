@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-026",
+  "repository_name": "edu-differentiated-instruction-task",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-differentiated-instruction-task-v1.0.0.zip",
+  "sha256": "52586B58718574821E18AF107BBFC42B687AE740483657861CDB9B3736873A49",
+  "bytes": 4878,
+  "entries": [
+    "edu-differentiated-instruction-task/SKILL.md",
+    "edu-differentiated-instruction-task/references/DOMAIN_GUIDE.md",
+    "edu-differentiated-instruction-task/references/EXAMPLES.md",
+    "edu-differentiated-instruction-task/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:13:36.7053710+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
