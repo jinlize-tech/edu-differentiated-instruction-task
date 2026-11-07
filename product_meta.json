@@ -6,19 +6,37 @@
   "repository_name": "edu-differentiated-instruction-task",
   "product_type": "Skill",
   "category": "03 教学教研中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-differentiated-instruction-task-v1.0.0.zip",
+  "baseline_commit": "51782ee07fd78d0d727ef1492ea5068ebc1df344",
+  "package_path": "dist/edu-differentiated-instruction-task-v1.0.1.zip",
+  "previous_package_path": "dist/edu-differentiated-instruction-task-v1.0.0.zip",
+  "previous_package_sha256": "52586B58718574821E18AF107BBFC42B687AE740483657861CDB9B3736873A49",
   "calculator": false,
   "core_input": "班级学情、教学目标、任务难度层级、学生分组和课堂时间",
   "main_output": "基础/标准/挑战任务、分层依据、教师提示、完成标准和评价量表",
+  "main_output_fields": [
+    "基础/标准/挑战任务",
+    "分层依据",
+    "教师提示",
+    "完成标准和评价量表"
+  ],
   "package_entries": [
     "edu-differentiated-instruction-task/SKILL.md",
     "edu-differentiated-instruction-task/references/DOMAIN_GUIDE.md",
     "edu-differentiated-instruction-task/references/EXAMPLES.md",
-    "edu-differentiated-instruction-task/templates/OUTPUT_TEMPLATE.md"
+    "edu-differentiated-instruction-task/templates/OUTPUT_TEMPLATE.md",
+    "edu-differentiated-instruction-task/README.md",
+    "edu-differentiated-instruction-task/USAGE.md",
+    "edu-differentiated-instruction-task/LICENSE",
+    "edu-differentiated-instruction-task/THIRD_PARTY_NOTICES.md",
+    "edu-differentiated-instruction-task/scripts/validate_input.js"
   ]
 }
